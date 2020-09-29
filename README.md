@@ -1,6 +1,6 @@
 # portfolio_flutter
 
-A new Flutter project.
+Flutter로 만든 포트폴리오
 
 ## Getting Started
 
